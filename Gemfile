@@ -35,6 +35,8 @@ gem 'fog'
 gem 'mini_magick'
 gem 'carrierwave-aws'
 gem 'stripe'
+gem 'ranked-model'
+gem 'jquery-ui-rails'
 
 
 # Use Capistrano for deployment
