@@ -34,6 +34,7 @@ gem 'figaro'
 gem 'fog'
 gem 'mini_magick'
 gem 'carrierwave-aws'
+gem 'stripe'
 
 
 # Use Capistrano for deployment
